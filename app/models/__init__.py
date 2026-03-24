@@ -4,3 +4,8 @@ from app.models.raw_record import RawRecord
 from app.models.normalized_record import NormalizedRecord
 from app.models.job import Job
 from app.models.task import Task
+from app.models.economic_event import EconomicEvent
+from app.models.chart_of_account import ChartOfAccount
+from app.models.accounting_entry import AccountingEntry
+from app.models.accounting_entry_line import AccountingEntryLine
+from app.models.financial_report import FinancialReport
